@@ -1,2 +1,2 @@
 # emojiPedia
-Created with CodeSandbox
+Created with CodeSandbox.This takes the emoji and gives its meaning
